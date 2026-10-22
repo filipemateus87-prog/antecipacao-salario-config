@@ -1,7 +1,7 @@
 {
-  "onboarding_review_enabled": true,
+  "onboarding_review_enabled": false,
   "supersim": {
-    "enabled": true,
+    "enabled": false,
     "url": "https://link-da-supersim"
   }
 }
