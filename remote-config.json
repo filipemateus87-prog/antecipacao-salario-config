@@ -1,7 +1,7 @@
 {
-  "onboarding_review_enabled": false,
+  "onboarding_review_enabled": true,
   "supersim": {
-    "enabled": false,
+    "enabled": true,
     "url": ""
   }
 }
