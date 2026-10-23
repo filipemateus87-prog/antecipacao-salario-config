@@ -1,7 +1,7 @@
 {
-  "onboarding_review_enabled": false,
+  "onboarding_review_enabled": true,
   "supersim": {
-    "enabled": false,
-    "url": "https://link-da-supersim"
+    "enabled": true,
+    "url": "https://www.supersim.com.br/emprestimo/solicitacao/inicio?utm_source=applu&utm_medium=app_ios&utm_campaign=antecipar_salario&click_id=XX"
   }
 }
